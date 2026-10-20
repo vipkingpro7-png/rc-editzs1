@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "RC_EDITZS1 Anime Hub",
+  "short_name": "RC_EDITZS1",
+  "description": "Anime edits, Shorts, wallpapers and editing tutorials.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
